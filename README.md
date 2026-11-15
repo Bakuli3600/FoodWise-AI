@@ -214,20 +214,29 @@ python -m unittest tests/test_live_api.py
 - **Dataset Version 6 (Benchmark Version):** [https://universe.roboflow.com/project-eyfif/proj3-food-waste-detection/dataset/6](https://universe.roboflow.com/project-eyfif/proj3-food-waste-detection/dataset/6)
 
 ### 8.2 Research Paper & Reference Repository
-- **MDPI Applied Sciences (2025):** [https://www.mdpi.com/2076-3417/15/13/7137](https://www.mdpi.com/2076-3417/15/13/7137)
-- **Authors' GitHub Repository:** [https://github.com/joaopferreira19/Food-Waste-Detection-using-YOLOv11](https://github.com/joaopferreira19/Food-Waste-Detection-using-YOLOv11)
+
+**Paper (MDPI Applied Sciences, 2025):**
+
+> Ferreira, J.; Cerqueira, P.; Ribeiro, J. *Food Waste Detection in Canteen Plates Using YOLOv11*. Applied Sciences **2025**, *15*(13), 7137. https://doi.org/10.3390/app15137137
+
+**Reference repository (authors):**
+
+- **GitHub:** [joaopferreira19 / Food-Waste-Detection-using-YOLOv11](https://github.com/joaopferreira19/Food-Waste-Detection-using-YOLOv11)
+- **MDPI Paper:** [2076-3417/15/13/7137](https://www.mdpi.com/2076-3417/15/13/7137)
+
+---
 
 ```bibtex
 @article{ferreira2025foodwaste,
-  title={Food Waste Detection in Canteen Plates Using YOLOv11},
-  author={Ferreira, Jo{\~a}o and Cerqueira, Paulino and Ribeiro, Jorge},
-  journal={Applied Sciences},
-  volume={15},
-  number={13},
-  pages={7137},
-  year={2025},
-  publisher={MDPI},
-  doi={10.3390/app15137137}
+  title   = {Food Waste Detection in Canteen Plates Using YOLOv11},
+  author  = {Ferreira, Jo{\~a}o and Cerqueira, Paulino and Ribeiro, Jorge},
+  journal = {Applied Sciences},
+  volume  = {15},
+  number  = {13},
+  pages   = {7137},
+  year    = {2025},
+  publisher = {MDPI},
+  doi     = {10.3390/app15137137}
 }
 ```
 
